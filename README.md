@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Bastian Elsässer
 
 I'm a Computer Science graduate (B.Sc.) based near
 Heilbronn, Germany, with a strong interest in
